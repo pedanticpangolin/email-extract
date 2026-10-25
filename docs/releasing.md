@@ -16,7 +16,7 @@ your employer in writing, and publish from a personal PyPI account.
 
 1. Accounts on pypi.org and test.pypi.org with 2FA.
 2. On each site add a *pending publisher* for `email-extract`:
-   * owner: `searchextract`
+   * owner: `pedanticpangolin`
    * repository: `email-extract`
    * workflow: `release.yml`
    * environment: `pypi` (PyPI) or `testpypi` (TestPyPI)
